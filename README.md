@@ -34,6 +34,7 @@ As an aspiring Blockchain Developer, this project helped me strengthen my Python
 - OS – File handling between modules
 
 ## Project Structure
+```bash
 college-quiz-app/
 ├── Test_project.py          # Main GUI application (Run this file)
 ├── insert_data.py           # Script to insert questions into the database
@@ -52,7 +53,7 @@ college-quiz-app/
    python insert_data.py
 4. Start the quiz:
    ```bash
-  python Test_project.py
+   python Test_project.py
 
 ## What I Learned
 - Building a complete GUI app with Tkinter
