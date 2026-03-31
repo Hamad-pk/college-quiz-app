@@ -1,0 +1,187 @@
+Grade,Subject,Unit,Question,Option_A,Option_B,Option_C,Option_D,Answer
+9th,Computer Science,Unit 1: Computer Systems,What is the primary function of the ALU?,Store data,Perform arithmetic and logic,Control input/output,Manage memory,Perform arithmetic and logic
+9th,Computer Science,Unit 1: Computer Systems,Which component holds instructions currently being executed?,Hard Drive,Cache,RAM,SSD,RAM
+9th,Computer Science,Unit 1: Computer Systems,Which bus carries data between components?,Control bus,Data bus,Address bus,Power bus,Data bus
+9th,Computer Science,Unit 1: Computer Systems,Which type of memory is non-volatile?,RAM,Cache,ROM,Registers,ROM
+9th,Computer Science,Unit 1: Computer Systems,What does the control unit do?,Perform calculations,Decide program flow,Execute logic,Direct operations of the processor,Direct operations of the processor
+9th,Computer Science,Unit 1: Computer Systems,Which storage is fastest?,HDD,SSD,RAM,Registers,Registers
+9th,Computer Science,Unit 1: Computer Systems,Clock speed is measured in?,MBps,Hz,Volts,Cycles,Hz
+
+10th,Computer Science,Unit 1: Computer Systems,What is the primary function of the ALU?,Store data,Perform arithmetic and logic,Control input/output,Manage memory,Perform arithmetic and logic
+10th,Computer Science,Unit 1: Computer Systems,Which component holds instructions currently being executed?,Hard Drive,Cache,RAM,SSD,RAM
+10th,Computer Science,Unit 1: Computer Systems,Which bus carries data between components?,Control bus,Data bus,Address bus,Power bus,Data bus
+10th,Computer Science,Unit 1: Computer Systems,Which type of memory is non-volatile?,RAM,Cache,ROM,Registers,ROM
+10th,Computer Science,Unit 1: Computer Systems,What does the control unit do?,Perform calculations,Decide program flow,Execute logic,Direct operations of the processor,Direct operations of the processor
+10th,Computer Science,Unit 1: Computer Systems,Which storage is fastest?,HDD,SSD,RAM,Registers,Registers
+10th,Computer Science,Unit 1: Computer Systems,Clock speed is measured in?,MBps,Hz,Volts,Cycles,Hz
+
+11th,Comuter Science,Unit 1: Computer Systems,Clock speed is measured in?,MBps,Hz,Volts,Cycles,Hz
+
+12th,Computer Science,Unit 1: Computer Systems,What is the primary function of the ALU?,Store data,Perform arithmetic and logic,Control input/output,Manage memory,Perform arithmetic and logic
+12th,Computer Science,Unit 1: Computer Systems,Which component holds instructions currently being executed?,Hard Drive,Cache,RAM,SSD,RAM
+12th,Computer Science,Unit 1: Computer Systems,Which bus carries data between components?,Control bus,Data bus,Address bus,Power bus,Data bus
+12th,Computer Science,Unit 1: Computer Systems,Which type of memory is non-volatile?,RAM,Cache,ROM,Registers,ROM
+12th,Computer Science,Unit 1: Computer Systems,What does the control unit do?,Perform calculations,Decide program flow,Execute logic,Direct operations of the processor,Direct operations of the processor
+12th,Computer Science,Unit 1: Computer Systems,Which storage is fastest?,HDD,SSD,RAM,Registers,Registers
+12th,Computer Science,Unit 1: Computer Systems,Clock speed is measured in?,MBps,Hz,Volts,Cycles,Hz
+12th,Computer Science,Unit 1: Computer Systems,Which is an input device?,Monitor,Speaker,Keyboard,Projector,Keyboard
+12th,Computer Science,Unit 1: Computer Systems,What is virtualization?,Running cloud apps,Creating virtual versions of hardware,Converting data to binary,Backing up systems,Creating virtual versions of hardware
+12th,Computer Science,Unit 1: Computer Systems,What does BIOS stand for?,Basic Internal OS,Binary Input Output System,Basic Input Output System,Basic Internal Output Setup,Basic Input Output System
+12th,Computer Science,Unit 1: Computer Systems,Which architecture uses a single memory for instructions and data?,Harvard,VLIW,Von Neumann,RISC,Von Neumann
+12th,Computer Science,Unit 1: Computer Systems,Which port is fastest?,USB 2.0,USB 3.0,Serial,VGA,USB 3.0
+12th,Computer Science,Unit 1: Computer Systems,Which device manages network traffic?,Router,Switch,Hub,Repeater,Router
+12th,Computer Science,Unit 1: Computer Systems,An operating system is ____,Application,System software,Utility,Hardware,System software
+12th,Computer Science,Unit 1: Computer Systems,SSD stands for?,Solid State Disk,Super Storage Device,Secure State Drive,Solid Storage Disk,Solid State Disk
+12th,Computer Science,Unit 1: Computer Systems,Which is volatile memory?,ROM,Flash,RAM,Optical,RAM
+12th,Computer Science,Unit 1: Computer Systems,Which is NOT an OS?,Windows,Linux,Android,Chrome Browser,Chrome Browser
+12th,Computer Science,Unit 1: Computer Systems,What is multitasking?,Running one process,RAM usage,RUning many tasks,RUning multiple processes simultaneously,Running multiple processes simultaneously
+12th,Computer Science,Unit 1: Computer Systems,Which component performs instruction fetch?,ALU,CU,Cache,GPU,CU
+12th,Computer Science,Unit 1: Computer Systems,Which device increases network range?,Hub,Repeater,SSD,Firewall,Repeater
+
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is decomposition?,Breaking problems,Binary search,Removing variables,Merging functions,Breaking problems
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is abstraction?,Ignoring details,Adding complexity,Running loops,Using recursion,Ignoring details
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is the output of linear search?,Sorted index,Found position,None,Sorted value,Found position
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Which algorithm is fastest in sorted lists?,Linear search,Binary search,Bubble,Insertion,Binary search
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Big-O of bubble sort?,O(n),O(log n),O(n²),O(1),O(n²)
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is a flowchart?,Text algorithm,Diagrammatic representation,Code snippet,Memory map,Diagrammatic representation
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Which symbol is used for decision in flowchart?,Oval,Rectangle,Diamond,Arrow,Diamond
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Recursion is ____,Looping,Function calling itself,Searching,Sorting,Function calling itself
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Algorithm efficiency measures?,Memory only,Time only,Time and space,Instructions only,Time and space
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Which is divide-and-conquer?,Bubble sort,Merge sort,Linear search,Insertion sort,Merge sort
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Pseudocode is ____,Programming language,Informal code,Compiled code,Math notation,Informal code
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is a trace table?,Memory map,Debugging table,Step-by-step variable tracking,Flow diagram,Step-by-step variable tracking
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What does an algorithm require?,Syntax,Hardware,Clear steps,Programmer,Clear steps
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Which sorting is fastest generally?,Bubble,Merge,Selection,Insertion,Merge
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What does O(1) mean?,Constant time,Linear time,Quadratic time,Long time,Constant time
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Greedy algorithms choose ____,Worst option,Best option,Random option,Fixed option,Best option
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Which sort swaps adjacent elements?,Merge,Bubble,Heap,Quick,Bubble
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is iteration?,Repeating steps once,Repeating steps,Sorting,Debugging,Repeating steps
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,What is a base case?,Stopping condition,Loop variable,Middle element,Input size,Stopping condition
+12th,Computer Science,Unit 2: Computational Thinking and Algorithms,Which algorithm uses pivots?,Merge,Quick,Selection,Bubble,Quick
+
+12th,Computer Science,Unit 3: Programming Fundamentals,Which is a data type?,Loop,If,int,Function,int
+12th,Computer Science,Unit 3: Programming Fundamentals,Which loop runs fixed times?,While,Do-while,For,If,For
+12th,Computer Science,Unit 3: Programming Fundamentals,Which operator assigns values?,==,=,!=,>=,=
+12th,Computer Science,Unit 3: Programming Fundamentals,Which is a logical operator?,&&,+,*,%,&&
+12th,Computer Science,Unit 3: Programming Fundamentals,Which structure selects between options?,Loop,Condition,Function,Array,Condition
+12th,Computer Science,Unit 3: Programming Fundamentals,Array indexing starts at?,1,0,−1,Depends,0
+12th,Computer Science,Unit 3: Programming Fundamentals,What is a function?,Loop,Statement,Reusable block,Condition,Reusable block
+12th,Computer Science,Unit 3: Programming Fundamentals,Which is not a loop?,For,While,If,Do-while,If
+12th,Computer Science,Unit 3: Programming Fundamentals,Which keyword declares variables?,print,var,def,input,var
+12th,Computer Science,Unit 3: Programming Fundamentals,Which stores true/false?,String,Float,Bool,Char,Bool
+12th,Computer Science,Unit 3: Programming Fundamentals,Which operator compares value?,=,==,++,+=,==
+12th,Computer Science,Unit 3: Programming Fundamentals,Which is an error type?,Runtime,Speed,Power,Memory leak,Runtime
+12th,Computer Science,Unit 3: Programming Fundamentals,What is debugging?,Running code,Fixing errors,Compiling,Deploying,Fixing errors
+12th,Computer Science,Unit 3: Programming Fundamentals,What is concatenation?,Multiplying strings,Joining strings,Looping strings,Deleting strings,Joining strings
+12th,Computer Science,Unit 3: Programming Fundamentals,Which is immutable in many languages?,String,Array,List,Dictionary,String
+12th,Computer Science,Unit 3: Programming Fundamentals,Which is used for comments?,//,**,%%,#,//
+12th,Computer Science,Unit 3: Programming Fundamentals,What is type casting?,Changing loops,Changing data type,Changing OS,Changing logic,Changing data type
+12th,Computer Science,Unit 3: Programming Fundamentals,Which structure stores multiple values?,If,String,Array,Loop,Array
+12th,Computer Science,Unit 3: Programming Fundamentals,Which keyword returns value?,give,stop,return,output,return
+12th,Computer Science,Unit 3: Programming Fundamentals,Infinite loops occur when ____,Condition always false,Condition always true,No code,No variables,Condition always true
+
+12th,Computer Science,Unit 4: Data and Analysis,What is data?,Raw facts,Processed info,Code,Algorithms,Raw facts
+12th,Computer Science,Unit 4: Data and Analysis,What is information?,Raw facts,Processed data,Hardware,Code,Processed data
+12th,Computer Science,Unit 4: Data and Analysis,Which is qualitative data?,Height,Weight,Color,Age,Color
+12th,Computer Science,Unit 4: Data and Analysis,Which is quantitative?,Color,Name,Age,Gender,Age
+12th,Computer Science,Unit 4: Data and Analysis,What is a database?,Memory,Storage medium,Organized collection of data,Algorithm,Organized collection of data
+12th,Computer Science,Unit 4: Data and Analysis,Which is DBMS?,Excel,MySQL,Notepad,Chrome,MySQL
+12th,Computer Science,Unit 4: Data and Analysis,Primary key must be ____,Repeated,Unique,Null,Numeric,Unique
+12th,Computer Science,Unit 4: Data and Analysis,Which chart shows parts of whole?,Bar,Pie,Line,Scatter,Pie
+12th,Computer Science,Unit 4: Data and Analysis,Which is structured data?,Video,Audio,Tables,Images,Tables
+12th,Computer Science,Unit 4: Data and Analysis,Which is unstructured?,Table,Spreadsheet,Image,Database,Image
+12th,Computer Science,Unit 4: Data and Analysis,What is SQL?,Hardware,Query language,Protocol,OS,Query language
+12th,Computer Science,Unit 4: Data and Analysis,AVG() is a ____,Function,Loop,Condition,Trigger,Function
+12th,Computer Science,Unit 4: Data and Analysis,Which is NOT a data type?,INT,VARCHAR,FLOAT,GRAPH,GRAPH
+12th,Computer Science,Unit 4: Data and Analysis,Data cleaning removes ____,Useful data,Errors,Correct entries,Tables,Errors
+12th,Computer Science,Unit 4: Data and Analysis,Normalization reduces ____,Speed,Redundancy,Tables,Keys,Redundancy
+12th,Computer Science,Unit 4: Data and Analysis,Which is a data model?,ERD,OS,RAM,CPU,ERD
+12th,Computer Science,Unit 4: Data and Analysis,Scatter plots show ____,Parts of whole,Trends,Relationships,Counts,Relationships
+12th,Computer Science,Unit 4: Data and Analysis,What is big data?,Small sets,Gigantic datasets,Code,Programs,Gigantic datasets
+12th,Computer Science,Unit 4: Data and Analysis,What is metadata?,Data about data,Raw data,Images,Tables,Data about data
+12th,Computer Science,Unit 4: Data and Analysis,Sorting data helps in ____,Confusion,Analysis slowdown,Better analysis,More errors,Better analysis
+
+12th,Computer Science,Unit 5: Applications of Computer Science,AI stands for?,Artificial Integration,Artificial Intelligence,Automated Input,Advanced Internet,Artificial Intelligence
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is a real-world application of ML?,Sorting files,Spam filtering,Cleaning RAM,Deleting cookies,Spam filtering
+12th,Computer Science,Unit 5: Applications of Computer Science,Robotics deals with?,Data analysis,Human movement only,Designing robots,CPU design,Designing robots
+12th,Computer Science,Unit 5: Applications of Computer Science,Cybersecurity protects ____,Phones,Networks and data,Printers,Games,Networks and data
+12th,Computer Science,Unit 5: Applications of Computer Science,IoT stands for?,Internet of Tools,Internet of Things,Internal OS Technology,Input of Transmission,Internet of Things
+12th,Computer Science,Unit 5: Applications of Computer Science,Cloud computing provides ____,Hardware only,Virtualized resources,Local storage only,Offline data,Virtualized resources
+12th,Computer Science,Unit 5: Applications of Computer Science,VR stands for?,Visual Recorder,Virtual Reality,Variable Render,Virtual Router,Virtual Reality
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is NOT cloud service?,IaaS,PaaS,CaaS,SaaS,CaaS
+12th,Computer Science,Unit 5: Applications of Computer Science,Machine learning requires ____,No data,Large datasets,Only hardware,Only labels,Large datasets
+12th,Computer Science,Unit 5: Applications of Computer Science,Face recognition uses ____,ML,Compiler,Loop structures,Sorting,ML
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is a blockchain feature?,Centralization,Immutability,Editable by anyone,Offline only,Immutability
+12th,Computer Science,Unit 5: Applications of Computer Science,Autonomous cars use ____,AI only,Sensors and AI,Human input,No programming,Sensors and AI
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is a search engine?,Chrome,Bing,Windows,Java,Bing
+12th,Computer Science,Unit 5: Applications of Computer Science,Data mining finds ____,Errors,Patterns,Passwords,Viruses,Patterns
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is NOT an AI field?,NLP,Computer Vision,Sorting algorithms,Expert systems,Sorting algorithms
+12th,Computer Science,Unit 5: Applications of Computer Science,Smart home devices rely on ____,Excel,IoT,BIOS,Compiler,IoT
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is a chatbot?,Instagram,GPT-like systems,BIOS,HDD,GPT-like systems
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is a database tech?,TensorFlow,MySQL,Kotlin,Numpy,MySQL
+12th,Computer Science,Unit 5: Applications of Computer Science,Computer vision analyzes ____,Text,Images,Audio,Programs,Images
+12th,Computer Science,Unit 5: Applications of Computer Science,Which is simulation software?,MATLAB,Linux,Chrome,Excel,MATLAB
+
+12th,Computer Science,Unit 6: Impacts of Computing,Digital divide refers to ____,CPU gap,Gap in tech access,RAM sizes,Network speed,Gap in tech access
+12th,Computer Science,Unit 6: Impacts of Computing,Which is an ethical issue?,Hacking legally,Data privacy,Buying phones,Software updates,Data privacy
+12th,Computer Science,Unit 6: Impacts of Computing,Phishing targets ____,Hardware,People,OS,AI,People
+12th,Computer Science,Unit 6: Impacts of Computing,Copyright protects ____,RAM,Creative works,Hardware,Networks,Creative works
+12th,Computer Science,Unit 6: Impacts of Computing,Plagiarism is ____,Copying ideas with credit,Copying without credit,Buying books,Saving files,Copying without credit
+12th,Computer Science,Unit 6: Impacts of Computing,Which is cyberattack?,Sorting,Phishing,Compiling,Printing,Phishing
+12th,Computer Science,Unit 6: Impacts of Computing,Which is personal data?,Car color,Email,OS name,Monitor size,Email
+12th,Computer Science,Unit 6: Impacts of Computing,Two-factor authentication increases ____,Convenience,Risk,Security,Errors,Security
+12th,Computer Science,Unit 6: Impacts of Computing,What is encryption?,Sorting data,Hiding data,Random data,Deleting data,Hiding data
+12th,Computer Science,Unit 6: Impacts of Computing,Which law protects data?,GDPR,HTML,CSS,SQL,GDPR
+12th,Computer Science,Unit 6: Impacts of Computing,Digital footprint is ____,Data we leave online,Files offline,Hardware logs,Programs,Data we leave online
+12th,Computer Science,Unit 6: Impacts of Computing,Which is NOT malware?,Virus,Worm,Trojan,Browser,Browser
+12th,Computer Science,Unit 6: Impacts of Computing,Which is a strong password?,1234,password,name@2023,T7!gH9#p,T7!gH9#p
+12th,Computer Science,Unit 6: Impacts of Computing,Which causes addiction?,Balanced use,Overuse of tech,No tech,Sleep,Overuse of tech
+12th,Computer Science,Unit 6: Impacts of Computing,Cyberbullying occurs on ____,Cars,Internet,Papers,CPU,Internet
+12th,Computer Science,Unit 6: Impacts of Computing,What is digital wellbeing?,Tech misuse,Healthy tech use,Hacking,Sleep mode,Healthy tech use
+12th,Computer Science,Unit 6: Impacts of Computing,Which wastes energy?,Green computing,Efficient design,Leaving devices on,Good cooling,Leaving devices on
+12th,Computer Science,Unit 6: Impacts of Computing,What is piracy?,Illegal copying,Buying legally,Coding,Encryption,Illegal copying
+12th,Computer Science,Unit 6: Impacts of Computing,Which is a cybercrime?,Phishing,Buying books,Typing,Browsing,Phishing
+12th,Computer Science,Unit 6: Impacts of Computing,Digital ethics concerns ____,Tech choices,Money issues,Color of devices,Hardware speed,Tech choices
+
+12th,Computer Science,Unit 7: Digital Literacy,Which is a digital skill?,Reading books offline,Using spreadsheets,Driving cars,Walking,Using spreadsheets
+12th,Computer Science,Unit 7: Digital Literacy,Which is an online safety practice?,Sharing passwords,Using strong passwords,Posting everything,Ignoring updates,Using strong passwords
+12th,Computer Science,Unit 7: Digital Literacy,Which is a communication tool?,Microwave,Email,HDD,CPU,Email
+12th,Computer Science,Unit 7: Digital Literacy,Cloud storage stores files ____,Locally,Online,On RAM,On HDD only,Online
+12th,Computer Science,Unit 7: Digital Literacy,Which is a search operator?,??,!-,AND,&&,AND
+12th,Computer Science,Unit 7: Digital Literacy,Digital footprint includes ____,Deleted files,Online activities,Offline habits,Food items,Online activities
+12th,Computer Science,Unit 7: Digital Literacy,Which is productivity software?,Chrome,Word,Camera,Speaker,Word
+12th,Computer Science,Unit 7: Digital Literacy,Phishing emails ask for ____,Fun,Greetings,Personal info,Images,Personal info
+12th,Computer Science,Unit 7: Digital Literacy,Which is social media?,Chrome,Instagram,Excel,CPU,Instagram
+12th,Computer Science,Unit 7: Digital Literacy,Which is NOT a digital threat?,Virus,Hacking,Malware,Pen,Pen
+12th,Computer Science,Unit 7: Digital Literacy,Which file is a document?,.jpg,.exe,.docx,.mp3,.docx
+12th,Computer Science,Unit 7: Digital Literacy,Which is a browser?,Excel,Word,Firefox,RAM,Firefox
+12th,Computer Science,Unit 7: Digital Literacy,Which improves online safety?,Weak passwords,No antivirus,Updates,Sharing data,Updates
+12th,Computer Science,Unit 7: Digital Literacy,What is netiquette?,Online manners,Code style,Data format,Hardware issue,Online manners
+12th,Computer Science,Unit 7: Digital Literacy,Which is a secure site?,http://example.com,ftp://site,https://example.com,random text,https://example.com
+12th,Computer Science,Unit 7: Digital Literacy,What is screen time?,Coding time,Time on devices,Walking time,Offline hours,Time on devices
+12th,Computer Science,Unit 7: Digital Literacy,Which is cloud platform?,Google Drive,Calculator,Keyboard,Speaker,Google Drive
+12th,Computer Science,Unit 7: Digital Literacy,Strong password contains ____,Only letters,Simple words,Mix of characters,Repeats,Mix of characters
+12th,Computer Science,Unit 7: Digital Literacy,What is spam?,Important email,Unwanted messages,OS update,Hardware issue,Unwanted messages
+12th,Computer Science,Unit 7: Digital Literacy,Cyber hygiene means ____,Cleaning PC physically,Safe online practices,Buying devices,Deleting apps,Safe online practices
+
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Entrepreneurship is ____,Selling things only,Creating value through innovation,Working 9–5,Coding only,Creating value through innovation
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is a startup?,Small shop,Innovative new business,Old company,Government office,Innovative new business
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Digital business uses ____,Offline tools only,Tech tools,No internet,Wires only,Tech tools
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,E-commerce is ____,Online selling,Offline shopping,Coding platform,Cloud storage,Online selling
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is a revenue model?,Subscription,CPU usage,RAM cycle,Cache hit,Subscription
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Pitch deck is ____,Hardware,Presentation for investors,Software,Database,Presentation for investors
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is a business tool?,Spreadsheet,Router,RAM,Keyboard,Spreadsheet
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,What does ROI measure?,Speed,Profit return,RAM,CPU cycles,Profit return
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is digital marketing?,Street posters,Social media ads,Chalkboard,Radio only,Social media ads
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Innovation means ____,Copying,Creating new ideas,Wasting time,Deleting data,Creating new ideas
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which platform allows online selling?,YouTube,Shopify,Word,Notepad,Shopify
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Scalability means ____,Shrinking business,Business can grow,Errors,Slowdown,Business can grow
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is funding source?,RAM,Venture capital,Cache,CPU,Venture capital
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Branding means ____,Logo only,Identity of business,RAM usage,UI design,Identity of business
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is customer data?,Monitor size,Purchase history,Keyboard type,Color of phone,Purchase history
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,MVP stands for?,Most Valuable Product,Minimum Viable Product,Main Virtual Program,Micro Value Platform,Minimum Viable Product
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Digital tools improve ____,Confusion,Efficiency,Errors,Delays,Efficiency
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Analytics help in ____,Random guessing,Decision making,RAM usage,Deleting data,Decision making
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Which is NOT a business model?,Freemium,Subscription,Ad-based,RAM mode,RAM mode
+12th,Computer Science,Unit 8: Entrepreneurship in Digital Age,Entrepreneurs must ____,Avoid risks,Understand markets,Ignore trends,Sleep more,Understand markets
+
