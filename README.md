@@ -34,14 +34,13 @@ As an aspiring Blockchain Developer, this project helped me strengthen my Python
 - OS – File handling between modules
 
 ## Project Structure
-```bash
-college-quiz-app/
-├── Test_project.py          # Main GUI application (Run this file)
-├── insert_data.py           # Script to insert questions into the database
-├── setup_database.py        # Creates and sets up the SQLite database
-├── questions.csv            # Source file containing questions
-└── README.md
-
+ ```bash
+ college-quiz-app/
+ ├── Test_project.py          # Main GUI application (Run this file)
+ ├── insert_data.py           # Script to insert questions into the database
+ ├── setup_database.py        # Creates and sets up the SQLite database
+ ├── questions.csv            # Source file containing questions
+ └── README.md
 
 ## How to Run the Project
 
