@@ -42,6 +42,7 @@ As an aspiring Blockchain Developer, this project helped me strengthen my Python
  ├── questions.csv            # Source file containing questions
  └── README.md
 
+```
 ## How to Run the Project
 
 1. Clone or download the repository.
@@ -71,5 +72,4 @@ This project improved my Python skills significantly and gave me confidence for 
 
 ---
 
-**Made with ❤️ by Hamadullah Khan**  
 Aspiring Blockchain Developer | Lahore, Pakistan
