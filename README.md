@@ -67,6 +67,7 @@ This project improved my Python skills significantly and gave me confidence for 
 
 ## Connect With Me
 - GitHub: https://github.com/Hamad-pk
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamad-khan-23442ssffxdaa)
 - Email: hamad.emp@gmail.com
 - Open to feedback, suggestions, and Web3/Blockchain internship opportunities
 
